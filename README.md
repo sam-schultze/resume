@@ -36,9 +36,9 @@
 
 - Engineered versatile, functional components using React.js, TypeScript, and SASS,     ensuring compatibility across multiple browsers while promoting reusability for efficient development workflows
 
-- Refactored critical components to utilize Redux Toolkit, streamlining state management, simplifying debugging, optimizing performance and enhancing scalability 
+- Refactored critical components to utilize Redux Toolkit, streamlining state management, simplifying debugging, optimizing performance and enhancing scalability
 
-- Incorporated Google Maps API v3 to create an interactive mapping feature, enhancing user engagement by displaying and filtering data effectively within the application interfaceIncorporated Google Maps API v3 to create an interactive mapping feature, enhancing user engagement by displaying and filtering data effectively within the application interface
+- Incorporated Google Maps API v3 to create an interactive mapping feature, enhancing user engagement by displaying and filtering data effectively within the application interface
 
 - Implemented responsive design principles to ensure seamless accessibility and optimal user experience across mobile and desktop platforms
   
